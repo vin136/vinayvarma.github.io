@@ -1,4 +1,4 @@
-# Essential mathematics of machine learning.
+# Essential mathematics of machine learning. $1/N$
 
 1. TOC
 {:toc}
